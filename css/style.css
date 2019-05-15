@@ -1,0 +1,36 @@
+h1{
+ 	text-align: center;
+    text-transform: uppercase;
+    font-family: poppins;
+ }
+ h2{
+ 	text-align: -webkit-center;
+ 	    color: #ffc5cf;
+
+ }
+ div{
+    width: 970px;
+    margin: auto
+}
+ table{
+ 	width: 100%;
+ }
+ th{
+ 	    font-family: poppins;
+ 	background: #ff6496;
+    font-size: 22px;
+    color: white;
+    border-color: #948383;
+ }
+ tr{
+ 	    background: white;
+    text-align: center;
+    font-size: 18px;
+    border-color: #ffffff;
+    font-family: poppins;
+ }
+ td{}
+ select{
+ 	background: pink;
+
+ }
